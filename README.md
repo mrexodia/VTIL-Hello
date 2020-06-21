@@ -1,6 +1,6 @@
-# VTIL-Hello
+# VTIL-Samples
 
-Example CMake project for VTIL.
+Example CMake projects for VTIL.
 
 ## Compiling
 
@@ -12,4 +12,4 @@ cd build
 cmake -G "Visual Studio 16 2019" ..
 ```
 
-This will generate `VTIL-Hello.sln`, which you can open in Visual Studio to build the project.
+This will generate `VTIL-Samples.sln`, which you can open in Visual Studio to build the project.
